@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: ut1278
+Build-Jdk: 11.0.3
+Main-Class: it.omicron.parser.ServiceMenuParser
+Created-By: Maven Integration for Eclipse
+
