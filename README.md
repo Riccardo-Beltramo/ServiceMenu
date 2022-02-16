@@ -1,15 +1,8 @@
 # Creazione del Jar
-
-Mediante uso di Git Bash digitare il comando mvn package
-Darà come risultato un Jar Eseguibile chiamato json-parser-1.0-jar-with-dependencies.jar
-
-
+-All'interno della cartella dove è salavto esercizio andare ad aprire il CMD
+-Successivamente andare a digitare nel CMD il seguente comando: mvn install
+-Accedere alla cartella Target per verificare il funzionamento
 
 # Esecuzione del Jar
-
-Nella directory dove è stato eseguito il Jar effettuare i seguenti passaggi:
-
-- Creazione di una cartella nominata 'Input'
-- Inserimento del file ServiceMenu.json all'interno della cartella 'Input'
-- Infine eseguire il seguente comando sul cmd: -jar json-parser-1.0-jar-with-dependencies.jar
-
+-Accedere al CMD della cartella target
+-Digitare il comando java -jar json-parser-1.0-jar-with-dependencies.jar
